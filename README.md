@@ -1,5 +1,5 @@
 # Unix-Sort
-Java implementation of Unix Sort CL program for Data Structures and Algorithms class.
+Unix Sort CL program java implementation of the for Data Structures and Algorithms class.
 
 
 
